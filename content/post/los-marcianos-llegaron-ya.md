@@ -25,21 +25,25 @@ mundos. Hablando de estos marcianos, un siglo antes.
 
 El fragmento con que comienza la obra dice:
 
+<blockquote>
     … as men busied themselves about their various concerns they were
     scrutinised and studied, perhaps almost as narrowly as a man with a
     microscope might scrutinise the transient creatures that swarm and
     multiply in a drop of water. With infinite complacency men went to and
     fro over this globe about their little affairs, serene in their
     assurance of their empire over matter.
+</blockquote>
 
 Que en la traducción al español diría que:
 
+<blockquote>
     … mientras los hombres se ocupaban de sus cosas eran estudiados
     quizá tan a fondo como el sabio estudia a través del microscopio las
     pasajeras criaturas que se agitan y multiplican en una gota de agua.
     Con infinita complacencia, la raza humana continuaba sus ocupaciones
     sobre este globo, abrigando la ilusión de su superioridad sobre la
     materia.
+</blockquote>
 
 No tiene asociación la canción popularizada por la Aragón, con la
 novela de Wells. Excepto por supuesto, la alusión a una vida
@@ -81,8 +85,10 @@ Creo que la mayor amenaza no es de criaturas extrañas, e
 irreconocibles, sino entre nosotros, la raza humana, que habitamos
 este planeta.
 
+<blockquote>
     … as men busied themselves about their various concerns they were
     scrutinised and studied,
+</blockquote>
 
 ¿Pero por quién estamos sujetos a escrutinio y estudio?
 
@@ -152,6 +158,8 @@ están en desacuerdo, no tratan sobre el tema de la religiosidad de los
 individuos, por la certidumbre que al levantar el menor prejuicio
 contra esto, se estuviese discriminando también, y por lo tanto la ley
 natural dicta, que no debiese hacerse, o que es incorrecto.
+
+### Referencias
 
 http://fep.es/website/reportajes.asp?qui=reportatge&id=178&modalidad=16
 
