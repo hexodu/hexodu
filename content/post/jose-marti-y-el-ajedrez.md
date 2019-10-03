@@ -7,5 +7,5 @@ banner = "/images/jmarti.png"
 +++
 
 
-<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIa2xxQjhCZHVhY3M/preview" width="580" height="480"></iframe>
 
+<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIa2xxQjhCZHVhY3M/preview" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
