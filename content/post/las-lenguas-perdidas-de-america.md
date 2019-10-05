@@ -1,7 +1,7 @@
 +++
 draft = true
 date = "2015-02-28 22:39:27+00:00"
-title = "las lenguas perdidas de america"
+title = "Las Lenguas Perdidas de América"
 banner = "/images/vinaza.png"
 
 +++
