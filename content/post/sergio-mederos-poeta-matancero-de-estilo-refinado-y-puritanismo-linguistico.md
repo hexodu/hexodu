@@ -1,8 +1,8 @@
 +++
 date = "2010-10-08 14:19:45+00:00"
 title = "Sergio Mederos poeta matancero de estilo refinado y puritanismo linguistico"
-draft = true
-
+draft = true 
+disable_comments = true
 +++
 
 Remontándonos a una época más reciente, donde se denote el valor artísticomatancero como centro cultural, no puede darse por sentada la exaltación de una específica rama de un arte en particular, como lo es la poesía en la literatura, sin dejar de desapercibirse y relegar a un secundario plano a los versos octasílabos que han contado siempre, pero antes mucho más, con una popularidad impresionante. 

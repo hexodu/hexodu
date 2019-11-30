@@ -27,11 +27,11 @@ El autor de este escrito sugiere que tanto la economía de Cuba como la de Estad
 Pero asumiendo que sea de mutuo beneficio, sobre eso no hay duda. La duda está en reconocer los sectores donde esta economías se beneficiarían. 
 Una de las recomendaciones del autor recae en el campo tecnológico. Porque si la  sugerencia - no menos descabellada -  por parte del autor en promulgar productos propietarios (que no se confunda esto con ‘proletarios’), constituye un mutuo beneficio para ambos países, entonces la ética en proponer ciertas alternativas, está por el piso. 
 
-<blockquote>in the American imagination, the embargo serves mostly to deny us access to Cohibas and Havana Club rum, but its damage to the Cuban people has been,  and continues to be, pervasive and profound. It affects their access to everything from electricity to video games to shoes. It has prevented Cubans from buying Microsoft Word or downloading Adobe Acrobat. </blockquote>
+> in the American imagination, the embargo serves mostly to deny us access to Cohibas and Havana Club rum, but its damage to the Cuban people has been,  and continues to be, pervasive and profound. It affects their access to everything from electricity to video games to shoes. It has prevented Cubans from buying Microsoft Word or downloading Adobe Acrobat.
 
 Y acto seguido a ello continúa:
 
-<blockquote>it has restricted how much money Cuban Americans can send to their families on the island. Americans have been prosecuted fro selling water-treatment supplies to Cuba and threatened with prosecution for donating musical instruments. Unlike federal regulations, which can be changed by executive decree, the embargo’s most severe and far-reaching provisions are based on a patchwork of legislation that only Congress can repeal. . . </blockquote>
+> it has restricted how much money Cuban Americans can send to their families on the island. Americans have been prosecuted fro selling water-treatment supplies to Cuba and threatened with prosecution for donating musical instruments. Unlike federal regulations, which can be changed by executive decree, the embargo’s most severe and far-reaching provisions are based on a patchwork of legislation that only Congress can repeal. . . 
 
 Después de leer el primero de estos párrafos, me sorprende que el autor expone su plan de trabajo o proyecto o recomendación (o como se le quiera decir), haciéndole hincapié a unos productos tales como Microsoft Word o Adobe Acrobat. 
 

@@ -1,8 +1,0 @@
-[submodule "hexodu.github.io"]
-	path = hexodu.github.io
-	url = https://github.com/hexodu/hexodu.github.io
-	branch = master
-[submodule "public"]
-	path = public
-	url = https://github.com/hexodu/hexodu.github.io
-	branch = master
