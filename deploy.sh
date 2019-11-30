@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #build project
-hugo -t lanyon -D
+hugo -t icarus -D
 
 #go to public
 cd public 
