@@ -21,7 +21,11 @@ Los que tengan duda acerca de esta posibilidad, qué tal la pausa en pensar por 
 Porque bastante saturado que se está de política, y de ideologías, y al escribir sobre este artículo que se publicó en Harpers, lo hago sin ocultar mi oportunismo al respecto. 
 
 El título del artículo es *El Bloqueo: The Cuban embargo continues* y que se publicó en la edición del mes de Julio del 2016. <a href="#harpers"><sup id='harp'>1</sup></a>
-<img src="/images/Harpers-Cover-2016-08.png" class="right">
+
+![The Cuban Embargo continues](/images/Harpers-Cover-2016-08.png#floatleft)
+
+
+
 El autor de este escrito sugiere que tanto la economía de Cuba como la de Estados Unidos se reciprocarían mediante un comercio unilateral entre ambos pueblos. (Unilateral porque en ningún momento hay un bilateralismo hasta el día de hoy, y si así fuese, diré más adelante el por qué el beneficio será para un solo país). 
 
 Pero asumiendo que sea de mutuo beneficio, sobre eso no hay duda. La duda está en reconocer los sectores donde esta economías se beneficiarían. 
@@ -41,6 +45,7 @@ Es un hecho que *Cohibas* y <em>Havana Club</em> no son menos propietarios que <
 <em>Cohibas</em> y <em>Havana Club</em> son marcas registradas al igual que Adobe y Micro-soft, pero su modo de operaciones difieren considerablemente. Tabacos y rones se les puede asignar diferentes marcas y su consumo no es obligatorio, pero Microsoft y Adobe siempre tendrán contratos y cláusulas antes que puedas hacer uso de sus respectivos programas. La utilización de sus programas se rigen bajo las licencias de los contratos que te hagan firmar, que es lo mismo que se obtiene mediante el  clic moderno en la pantalla de tu ordenador, teléfono móvil o tableta electrónica, donde el usuario, o el administrador del sistema que haya instalado el programa o sistema operativo,  está en total acuerdo con la utilización del mismo, una vez que la licencia sea aceptada. 
 <img src="/images/microsoft-revenue_.png" class="right">
 
+
 ¿Cuáles son las consecuencias de esto? Bastantes. ¿Por qué?  Por la siguiente razón. Operando con un ingreso de $93 billones de dólares, no hay lugar a dudas que Microsoft, palabra que es una combinación de <em>micro</em> y <em>software</em> es el sistema operativo más esparcido y utilizado en el mundo entero. Sus productos incluyen entre muchos otros: Microsoft Word. Un programa procesador de texto visual o abreviado en Inglés bajo las siglas de WYSIWYG, o What You See Is What You Get, que traduciéndolo al Español quiere decir que lo que ves reflejado en la pantalla es una fiel y similar representación del documento final. 
 
 Pudiese añadir que está pre-configurado. Pero es mejor no desviarse con estos datos, por temor a más confusión sobre el tema. Lo que es necesario en recordarnos es que el programa Microsoft Word fue edificado, desarrollado, construido bajo el lenguaje de programación de C++ y el cual emplea su no menos licenciado dialecto de VBA o Visual Basic Applications para ejecutar macros dentro del mismo. 
@@ -55,6 +60,7 @@ Parafraseando al famoso biólogo estadounidense E. O. Wilson quien una vez afirm
 
 Adobe Systems, el propietario detrás de estos productos, es otro que bien baila, y cuando le conviene. 
 <img src="/images/adobe-revenue_.png" class="right">
+
 
 Adobe opera con un ingreso como fue reportado en el 2015 de varios billones de dólares también. Y aunque el estado financiero anual es reportado apropiadamente y desde un punto de vista ético-profesional son transparentes en la divulgación de sus ingresos, ganancias, y demás, al igual que Microsoft, sus productos no son menos inéticos que los adueñados por este último. <a href="#adobe"><sup id='adoberef'>3</sup></a>
 
@@ -88,6 +94,7 @@ Las licencias cambian según el dueño de estas licencias. Y también cambian la
 Por otra parte y desde un punto de vista técnico, para aquellos que hacen uso de estos productos y están involucrados en el campo tecnológico, quizás una licencia tenga consecuencias más drásticas, porque esta licencia se adjunta, se fija y se amarra como obligación también al código de la fuente, que estos programas emplean, y como mencioné anteriormente cuando toqué el punto acerca  del código abierto, el código de estas compañías es por lo tanto: completamente cerrado. Y por lo consiguiente el usuario, siempre estará a la merced de las acciones que son tomadas y llevadas a cabo por los respectivos dueños de la licencia. 
 <img src="/images/libreoffice5_screenshot_.png" width="300px" align="right">
 
+
 Productos tales como <a href="https://libreoffice.org" target="_blank" rel="external">LibreOffice</a> tienen por el contrario, licencias donde la modificación o cualquier cambio, incluso del código fuente, es aceptable y permisible. La licencia de este procesador de palabras, está carente también del manojo de restricciones que <em>Microsoft</em> y <em>Adobe</em> imponen sobre los usuarios. 
 
 Programas también como <a href="http://abiword.com" target="_blank" rel="external">Abiword</a> están también disponibles bajo la misma licencia que LibreOffice, y les otorga a los usuarios las mismas ventajas en el funcionamiento y la creación de los documentos, sin las restricciones. 
@@ -96,6 +103,7 @@ El dominio por parte de Microsoft no ha obstruido el avance tecnológico, pero h
 
 Por otra parte Adobe se ha mantenido tan invasivo como antes. No fue sino gracias a Google, compañía que promulgó desde un principio la universal adaptación de HTML5 por ejemplo, los navegadores y los sitios en el Internet estaban plagados de uno los productos claves de Adobe: <em>Flash Player</em>. 
 <img src="/images/abiword-screenshot_.png" width="300px" align="right">
+
 
 Apple es tan pero tan pero tan propietario, que solo basta para comprar su sistema operativo en un disco portátil de DVD y posteriormente tratar de instalarlo en un ordenador PC, o para ser más técnico, con partes que normalmente se utilicen para edificar, ensamblar, y configurar una computadora basada en la original de IBM, para darnos cuenta de cuanto Apple nos defrauda. El hablar de Apple por lo tanto requiere no un artículo, sino varios sobre esto. Apple es un ejemplo de capitalismo a la Rockerfeller. 
 
@@ -109,12 +117,13 @@ Entiendo y hasta de buena fe compartiría algunos de los puntos de vista del aut
 
 <strong> Footnotes </strong>
 
-1.<a name="harpers"></a>“El bloqueo: the Cuban embargo continues”. <a href="http://harpers.org/archive/2016/07/el-bloqueo/" target="_blank" rel="external">http://harpers.org/archive/2016/07/el-bloqueo/</a> <a href="#harp">_&#x21A9;&#xFE0E;</a>
+1.<a name="harpers"></a>“El bloqueo: the Cuban embargo continues”. <a href="http://harpers.org/archive/2016/07/el-bloqueo/" target="_blank" >http://harpers.org/archive/2016/07/el-bloqueo/</a> <a href="#harp">&crarr;</a>
 
-2.<a name="abierto"></a>“Definición de Código Abierto” <strong>source</strong> <a href="https://es.wikipedia.org/wiki/Código_abierto" target="_blank" rel="external">https://es.wkipedia.org/wiki/Código_abierto</a> <a href="#abiertoref">_&#x21A9;&#xFE0E;</a>
 
-3.<a name="adobe"></a> “Estado financiero de Adobe Systems reportado por Wikipedia” <a href="https://en.wikipedia.org/wiki/Adobe_Systems" target="_blank" rel="external">https://en.wikipedia.org/wiki/Adobe_Systems</a> <a href="#adoberef">_&#x21A9;&#xFE0E;</a>
+2.<a name="abierto"></a>“Definición de Código Abierto” <strong>source</strong> <a href="https://es.wikipedia.org/wiki/Código_abierto" target="_blank">https://es.wkipedia.org/wiki/Código_abierto</a> <a href="#abiertoref">&crarr;</a>
 
-4.<a name="flash"></a> “Criticismos de las prácticas de Adobe Systems. Vulnerabilidades de sus programas”. <a href="https://en.wikipedia.org/wiki/Adobe_Systems#Criticisms" target="_blank" rel="external">Criticismos de las prácticas de Adobe Systems</a> <a href="#flashref">_&#x21A9;&#xFE0E;</a>
+3.<a name="adobe"></a> “Estado financiero de Adobe Systems reportado por Wikipedia” <a href="https://en.wikipedia.org/wiki/Adobe_Systems" target="_blank" rel="external">https://en.wikipedia.org/wiki/Adobe_Systems</a> <a href="#adoberef">&crarr;</a>
 
-5.<a name="micro"></a> “Fundación de Bill y Melinda Gates” <a href="https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation" target="_blank" rel="external">https://en.wikipedia.org/wiki/Bill_&_Melinda_Gates_Foundation</a> <a href="#microref">_&#x21A9;&#xFE0E;</a>
+4.<a name="flash"></a> “Criticismos de las prácticas de Adobe Systems. Vulnerabilidades de sus programas”. <a href="https://en.wikipedia.org/wiki/Adobe_Systems#Criticisms" target="_blank" rel="external">Criticismos de las prácticas de Adobe Systems</a> <a href="#flashref">&crarr;</a>
+
+5.<a name="micro"></a> “Fundación de Bill y Melinda Gates” <a href="https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation" target="_blank" rel="external">https://en.wikipedia.org/wiki/Bill_&_Melinda_Gates_Foundation</a> <a href="#microref">&crarr;</a>

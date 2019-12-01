@@ -10,6 +10,7 @@ Remontándonos a una época más reciente, donde se denote el valor artísticoma
 Aunque fue un género predominante en las zonas rurales del campo cubano, sus seguidores mostrarían a lo largo del tiempo una incomparable devoción, no antes experimentada con otros versículos de la modernidad.
 
 <img align="right" src="/images/guajiros.jpg?w=227&h=300">
+
 Aunque para la sorpresa general de muchos, quienes falsamente, pudiésen asumir que la décima es una exclusividad del campesinado cubano, esto no es y valga la redundancia, verdadero. Quizás más sorprendente aún, no es que la décima tuviése un origen peninsular, como se pudiése sospechar, sino más bien que según los datos más importantes que se han recopilado hasta el presente, los cuales señalan que la décima, con su forma de espinela, y su consiguiente lógica construcción, es un tipo de poema que tiene raíces tan lejanas como desde el siglo VI de nuestra era y se han recobrado documentos que datan del siglo XI y XII, donde muchos poetas, en este caso de descendencia hispano-musulmana, e ibero judía, de los cuales se ha podido comprobar que hacían uso de la singular composición que encapitulaba a este tipo de poesía, con su manera precisa e improvisante.
 
 Pero, no retrasemos el reloj por la vertiente más caduca de nuestra historia. Si nos acercamos un poco más a la época actual, aunque han pasado unos cuantos siglos, o mejor dicho, a la época dorada de Matanzas, apreciamos que ya en el siglo XVI y XVII figuras renombradísimas como lo fueron Lope de Vega, Calderón de la Barca, entre tantos otros, hacían alago a la estructuración  
@@ -32,8 +33,7 @@ Uno de estos poetas, que considero que no ha sido, y esto sucede muchas veces, r
 
 Esto no es un tributo póstumo ni nada por el estilo, aunque quiero recalcar que sí se lo merece. Aunque se pudiése considerar como un humilde homenaje, pero más bien, quiero detallar de la mejor recolectiva manera posible, algunas de sus poesías y cortas anécdotas. Y más importante aún, lo que fue para muchos: un amigo.
 
- ![guateque](/images/guateque.jpg?w=150&h=147)
-
+<img src="/images/guateque.jpg" align="right">
 
 Según se cuenta, Sergio Mederos era un asiduo educando de la semántica, de la cual extraía lo más sobresaliente que complimentara su autodidacta profesión. Acudía al periódico y fiel repaso de la misma en cada ocasión libre que el tiempo le permitiése. En más de una ocasión le comunicó a uno de mis parientes, por quien he logrado enterarme de algunas facetas de su vida, que era en estos estudios de esta ciencia, por la cual se basaba muchas veces para  componer sus estrofas.
 No es necesario subrayar que Mederos era un improvisador nato, con inigualables dones repentistas. Cuando muchos de sus colegas  de trabajo intentaban, junto al habitual ritmo del trés y la guitarra, de entablar un contrapunteo en la acostumbrada reunión que asistirían regularmente los domingos, les resultaba un reto llevarlo a la práctica, no solo por cuestiones laborales, sino también personales, ya que muchos de sus colegas reconocían la erudicción de este y su posición, establecida ya, como uno de los más importantes poetas de la época.  
