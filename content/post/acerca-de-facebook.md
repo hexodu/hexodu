@@ -16,7 +16,7 @@ No he reeditado nada. Aparece a continuación tal y como lo escribi en ese enton
 4. [La verdadera cara de Facebook: census virtual](#la-verdadera-cara-de-facebook-census-virtual)
 5. [Tú eres el consumidor y cliente](#tú-eres-el-consumidor-y-cliente)
 6. [La farsa de por qué apoyan la cultura de la tecnología](#la-farsa-de-por-qué-apoyan-la-cultura-de-la-tecnología)
-7. [El intrínsico motto de la compañía](#el-intrínsico-motto-de-la-compañía)
+7. [El intrínseco motto de la compañía](#el-intrínseco-motto-de-la-compañía)
 8. [La falta de originalidad y plagiarismo cibernético](#la-falta-de-originalidad-y-plagiarismo-cibernético)
 
 
@@ -75,7 +75,7 @@ A pesar que Wordpress, por ejemplo, sea una de las más completas plataformas de
 Google por otra parte no está libre de culpa tampoco. Como compañía privatizada se han encargado de ser el buscador electrónico standard. Casi dominante y pseudo-monopolista. Sus resultados son en gran medida conmensurables con sus productos. Mientras más ligados estén entre sí estos productos, es decir, aquellos que sean exclusivos de Google, otros toman prioridad. Por otra parte, me parece una de las más grandes ironías de los últimos tiempos, que los cambios que hicieron meses atrás con el sistema de búsqueda, fueron causa de alarma debido al factor de privacidad. Considero que son bastante transparentes en este tema, y a menos que la ética de sus respectivo equipo sea comprometida, algo que en raras ocasiones aunque no se ha visto, no pudiése descartarse. Aún así, no logro distinguir el principal motivo por el cual la gente se asustó. Google seguirá siendo, a través del tiempo, una de las compañías más grandes en el medio cibernético. Aunque no estoy de acuerdo con la filosofía privatizada y exclusiva de operar de Google, que con sus inofensivos anuncios, (aunque con intereses), no son nada comparados con la verdadera estrategia de Facebook. Y a pesar de los constantes cambios y el súbito abandono de proyectos que de la noche al día ocurren en las decisiones que toma Google, sus aportes opaqan los deslices técnicos que a nivel ejecutivo pudiésen ocurrir.
 
  
-## El intrínsico motto de la compañía
+## El intrínseco motto de la compañía
 
 Por otra parte, el valor de Facebook como medio de comunicación moderna, se infló a desmedidas. Ocurrió con la similitud de las burbújas financieras, aquellos financial bubbles de hace unos años atrás. ¿Pero quiénes son los culpables de semejante engaño?
 
