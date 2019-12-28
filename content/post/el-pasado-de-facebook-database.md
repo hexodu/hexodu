@@ -1,5 +1,5 @@
 ---
-title: "La base de datos Facebook"
+title: "El pasado de facebook database"
 date: 2019-12-28T03:38:04-05:00
 draft: true
 banner: "/images/zuckerberg-fb.jpg"
