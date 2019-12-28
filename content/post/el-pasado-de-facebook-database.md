@@ -1,8 +1,7 @@
 ---
 title: "El pasado de facebook database"
-date: 2019-12-28T03:38:04-05:00
+date: 2019-12-27T03:38:04-05:00
 draft: true
-banner: "/images/zuckerberg-fb.jpg"
 ---
 
 ## NYtimes - Todo lo que Facebook compartió con empresas pese a prometer más privacidad.
