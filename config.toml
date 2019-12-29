@@ -19,7 +19,7 @@ theme = "icarus"
 
 
 [permalinks]
-    post = "/:year/:month/:day/:"
+    post = "/:year/:month/:day/:title/"
 
 
 [params]
