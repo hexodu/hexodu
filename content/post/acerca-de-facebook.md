@@ -5,7 +5,7 @@ draft: true
 banner: "/images/Thefacebook.png"
 ---
 
-Este artículo lo publiqué hace tanto tiempo atrás - primera vez fue en sl 2011 y posteriormente en el 2012 - que ni me acordaba qué estaba por llos alrededores..
+Este artículo lo publiqué hace tanto tiempo atrás - primera vez fue en sl 2011 y posteriormente en el 2012 - que ni me acordaba que estaba por los alrededores..
 
 No he reeditado nada. Aparece a continuación tal y como lo escribi en ese entonces.
 
