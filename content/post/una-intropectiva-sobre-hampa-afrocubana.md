@@ -6,4 +6,4 @@ banner = "/images/introspectiva.png"
 +++
 
 
-<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIblJpXzhZVDlxT2M/preview" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIblJpXzhZVDlxT2M/preview" height="auto" width="auto" allowfullscreen="" frameborder="0"></iframe>
