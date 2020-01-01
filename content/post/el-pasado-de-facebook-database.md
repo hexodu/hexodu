@@ -7,7 +7,7 @@ banner: "/images/zuckerberg-fb.jpg"
 
 ## NYtimes - Todo lo que Facebook compartió con empresas pese a prometer más privacidad.
  
-<iframe src="https://drive.google.com/file/d/1Yx2ykb3RmOqn-WCS9voXLStTH4t75mZx/preview" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1Yx2ykb3RmOqn-WCS9voXLStTH4t75mZx/preview" height="auto" width="auto" allowfullscreen="" frameborder="0"></iframe>
 
 Este reporte también se publicó por el [New York Times](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html) el 18 de Diciembre de 2018, y que tampbién aparece en inglés - el cual es asequible mediante el enlace... 
 
@@ -15,11 +15,11 @@ Hay tantos artículos que tocan este tema que no es necesario ni el uso de Googl
 
 ## Estos son los datos que Facebook tiene de tu vida y así los utiliza
  
-<iframe src="https://drive.google.com/file/d/14NXxO7STMbsTchP0FGjvuw83GWTYg0gl/preview" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/14NXxO7STMbsTchP0FGjvuw83GWTYg0gl/preview" height="auto" width="auto" allowfullscreen="" frameborder="0"></iframe>
 
 ## Facebook y Cambridge Analytica: 10 claves para entender el escándalo del robo de datos.
  
-<iframe src="https://drive.google.com/file/d/1LCJcBBFd2uAd8WPFFAnrPYiI6oLr4AQO/preview" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1LCJcBBFd2uAd8WPFFAnrPYiI6oLr4AQO/preview" height="auto" width="auto" allowfullscreen="" frameborder="0"></iframe>
 
 
 **Recursos de consulta**
