@@ -8,7 +8,7 @@ De acuerdo a los últimos reportes por el Washington Post, en Octubre del 2019 l
 
 Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden y alaba a Trump_) expone mas acerca de esta última manipulación de datos y de información para decibir al público cuando varios de estos usuarios alaban a Drumpf mientras que critica al otro candidato..
 
-De acuerdo al artículo, una de estas cuentas falsas por ejemplo, utilizó como perfil a un votante de la raza negra quien vive en el estado de Michigan, y quien usó la cuenta para criticar a un candidato democrata, mientras que favorecía al contrincante... El próposito de las cuentas 
+De acuerdo al artículo, una de estas cuentas falsas por ejemplo, utilizó como perfil a un votante de la raza negra quien vive en el estado de Michigan, y quien usó la cuenta para criticar a un candidato democrata, mientras que favorecía al contrincante... 
 
 En esta ocasión, el objetivo de este grupo se enfocó en uno de los candidatos que supuestamente - si es seleccionado  - sería uno de los contrincantes en contra de Drmpf. 
 
