@@ -40,11 +40,11 @@ Y acerca del otro grupo:
 > 
 
 
-dan una simplificada definicion acerca de lo que estos grupos de espionajes significan.
+dan una simplificada definición acerca de lo que estos grupos de espionajes significan.
 
 
        
-Ya a finales de ese mismo año era más que conocido todo el desbarajuste que se habia armado debido a esta intrusión: que la manipulación de la información, acompañada con una  propaganda vasta que habia tocado todos los sectores de las redes sociales.
+Ya a finales de ese mismo año era más que conocido todo el desbarajuste que se había  armado debido a esta intrusión: que la manipulación de la información, acompañada con una  propaganda vasta y abarcadora que había tocado todos los sectores de las redes sociales.
 
 Artículos como <a href="https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html" target="_blank"> The Perfect Weapon: How Russian Cyberpower Invaded the U.S.</a> ofrecían mejores conclusiones.
 
