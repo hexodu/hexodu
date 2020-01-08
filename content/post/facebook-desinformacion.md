@@ -4,11 +4,11 @@ date: 2020-01-06T04:32:07-05:00
 draft: true
 ---
 
-De acuerdo a los últimos reportes por el Washington Post, en Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
+De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante  Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
 
-Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden y alaba a Trump_) expone mas acerca de esta última manipulación de datos y de información para decibir al público cuando varios de estos usuarios alaban a Drumpf mientras que critica al otro candidato..
+Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden y alaba a Trump_) expone mas acerca de esta última manipulación de datos y de información para decebir al público cuando varios de estos usuarios alaban a Drumpf mientras que critica al otro candidato..
 
-De acuerdo al artículo, una de estas cuentas falsas por ejemplo, utilizó como perfil a un votante de la raza negra quien vive en el estado de Michigan, y quien usó la cuenta para criticar a un candidato democrata, mientras que favorecía al contrincante... 
+De acuerdo al artículo, una de estas cuentas falsas por ejemplo, utilizó como perfil a un votante de la raza negra quien vive en el estado de Michigan, y quien usó la cuenta para criticar a un candidato demócrata, mientras que favorecía al contrincante... 
 
 En esta ocasión, el objetivo de este grupo se enfocó en uno de los candidatos que supuestamente - si es seleccionado  - sería uno de los contrincantes en contra de Drmpf. 
 
@@ -25,9 +25,9 @@ https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sp
 
 
 
-Este network con el objetivo de desinformación fue creado de una manera tan sofisticada que aunque muchas inconsistencias habían sido detectadas por varios expertos, el mismo gobierno no tenía ni la menor idea en como afrontar el problema. Cabe justo recalcar que durante ese tiempo, ninguna legislación existente estaba preparada para combatir la desinformación prevalente. 
+Este network cuyo objetivo siempre fue para crear desinformación fue creado de una manera tan sofisticada que aunque muchas inconsistencias habían sido detectadas por varios expertos, el mismo gobierno no tenía ni la menor idea en como afrontar el problema. Cabe justo recalcar que durante ese tiempo, ningún artículo de legislación existente estaba preparado e implementado para combatir la desinformación prevaleciente. 
 
-A mediados del 2016 se habia publicado en The Guardian un articulo que indagaba más sobre el tema intitulado <a href="https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc" target="_blank"> Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why? </a> 
+A mediados del 2016 se había publicado en The Guardian un articulo que indagaba más sobre el tema intitulado <a href="https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc" target="_blank"> Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why? </a> 
 
 Un par de meses después los medios de prensa continuaban explicando para el público en general los propósitos perpetrados por parte de estos grupos de espionaje  Rusos traían consigo. Artículos como <a href="https://www.nbcnews.com/storyline/hacking-in-america/cozy-bear-explained-what-you-need-know-about-russian-hacks-n648541#anchor-WhatexactlyareCozyBearandFancyBear" target="_blank"> Cozy Bear Explained: What You Need to Know About the Russian Hacks </a> hablaban más sobre el controversial tema. 
 
@@ -42,8 +42,6 @@ Y acerca del otro grupo:
 
 dan una simplificada definición acerca de lo que estos grupos de espionajes significan.
 
-
-       
 Ya a finales de ese mismo año era más que conocido todo el desbarajuste que se había  armado debido a esta intrusión: que la manipulación de la información, acompañada con una  propaganda vasta y abarcadora que había tocado todos los sectores de las redes sociales.
 
 Artículos como <a href="https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html" target="_blank"> The Perfect Weapon: How Russian Cyberpower Invaded the U.S.</a> ofrecían mejores conclusiones.
