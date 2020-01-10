@@ -6,7 +6,7 @@ draft: true
 
 De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante  Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
 
-Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden y alaba a Trump_) expone más acerca de esta última manipulación de datos y de información para decebir al público cuando varios de estos usuarios alababan a Drumpf mientras que criticaban al otro candidato..
+Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden mientras que alaba a Trump_) expone más acerca de esta última manipulación de datos y de información para decebir al público cuando varios de estos usuarios alababan a Drumpf mientras que criticaban al otro candidato..
 
 De acuerdo al artículo, una de estas cuentas falsas por ejemplo, utilizó como perfil a un votante de la raza negra quien vive en el estado de Michigan, y quien usó la cuenta para criticar a un candidato demócrata, mientras que favorecía al contrincante... 
 
@@ -14,7 +14,7 @@ En esta ocasión, el objetivo de este grupo se enfocó en uno de los candidatos 
 
 Tan reciente como en Diciembre del 2019, Facebook removió cientos de cuentas pro-Trump que usaban en sus respectivos perfiles fotos generadas mediante AI o en español: Inteligencia Artificial. 
 
-Ver https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/#4b7aaead6175 para más detalles acerca de ello.
+Ver <a href="https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/#4b7aaead6175" target="_blank"> cuentas falsas pro-Trump creadas en Facebook con Inteligencia Artificial </a>  para más detalles acerca de ello.
 
 El Washington Post también reportó que ambas redes sociales -- tanto Facebook como Twitter en este caso -- desactivaron cuentas que habían sido creadas con operaciones inválidas que les permitieron tener fotos de perfil mediante inteligencia artificial. 
 
