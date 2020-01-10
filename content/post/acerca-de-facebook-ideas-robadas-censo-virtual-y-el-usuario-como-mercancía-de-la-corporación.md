@@ -1,10 +1,11 @@
 ---
-title: "Acerca De Facebook: ideas robadas, censo virtual, y el usuario como mercancía de la corporación."
+title: "Acerca De Facebook: Ideas Robadas, Censo Virtual, Y El Usuario Como Mercancía De La Corporación"
 date: 2019-12-28T01:26:17-05:00
 draft: true
 banner: "/images/Thefacebook.png"
 ---
 
+ 
 Este artículo lo publiqué hace tanto tiempo atrás - primera vez fue en sl 2011 y posteriormente en el 2012 - que ni me acordaba que estaba por los alrededores...
 
 No he reeditado nada. Aparece a continuación tal y como lo escribi en ese entonces.
