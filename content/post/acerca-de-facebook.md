@@ -1,5 +1,5 @@
 ---
-title: "Acerca De Facebook"
+title: "Acerca De Facebook: ideas robadas, censo virtual, y el usuario como mercancía de la corporación."
 date: 2019-12-28T01:26:17-05:00
 draft: true
 banner: "/images/Thefacebook.png"
