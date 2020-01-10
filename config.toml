@@ -30,7 +30,7 @@ theme = "icarus"
       autoHeadingIDType = "github"
     [markup.goldmark.renderer]
       hardWraps = false
-      unsafe = true
+      unsafe = false
       xHTML = false
 
 
