@@ -2,6 +2,7 @@
 title: "La desinformación en Facebook "
 date: 2020-01-06T04:32:07-05:00
 draft: true
+banner: "/images/image80.png"
 ---
 
 De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante  Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
