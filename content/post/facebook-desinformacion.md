@@ -5,7 +5,7 @@ draft: true
 banner: "/images/image80.png"
 ---
 
-De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante  Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
+De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante  Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido al candidato de ese entonces Donald Drumpf..
 
 Este artículo  <a href="https://www.washingtonpost.com/technology/2019/10/21/facebook-fine-tunes-disinformation-defenses-but-leaves-controversial-political-ad-rules-intact/" target="_blank"> Facebook takedowns show new Russian activity targeted Biden, praised Trump</a> (_Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden mientras que alaba a Trump_) expone más acerca de esta última manipulación de datos y de información para decebir al público cuando varios de estos usuarios alababan a Drumpf mientras que criticaban al otro candidato..
 
