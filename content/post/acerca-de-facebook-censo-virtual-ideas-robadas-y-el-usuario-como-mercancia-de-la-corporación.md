@@ -1,6 +1,6 @@
 ---
-title: "Acerca De Facebook Censo Virtual Ideas Robadas Y El Usuario Como Mercancía De La Corporación"
-date: 2020-01-11T01:56:05-05:00
+title: "Acerca De Facebook: Censo Virtual Ideas Robadas Y El Usuario Como Mercancía De La Corporación"
+date: 2019-12-28T01:56:05-05:00
 draft: true
 banner: "/images/Thefacebook.png"
 ---
