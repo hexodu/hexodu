@@ -1,12 +1,11 @@
 ---
-title: "Acerca De Facebook: Ideas Robadas,  Censo Virtual, Y El Usuario Como Mercancía de la Corporación"
-date: 2019-12-28T02:29:10-05:00
+title: "Acerca De Facebook Censo Virtual Ideas Robadas Y Usuario Como Mercancía"
+date: 2019-12-28T01:32:25-05:00
 draft: true
 banner: "/images/Thefacebook.png"
 ---
 
 
- 
 Este artículo lo publiqué hace tanto tiempo atrás - primera vez fue en sl 2011 y posteriormente en el 2012 - que ni me acordaba que estaba por los alrededores...
 
 No he reeditado nada. Aparece a continuación tal y como lo escribi en ese entonces.
@@ -94,6 +93,7 @@ Aún recuerdo cuando Myspace albergaba toda la atención del momento. Tom era un
 ¿Por qué no sobrevivirá Facebook? Muchos dicen que es un 'fad' o novedad, o moda, y que por lo tanto su destino es impredecible. Y que en cualquier momento pueden fracasar. Yo digo que ya han fracasado, solo que inflaron sus verdaderas ganancias desde un principio. Otros medios de comunicación han posicionado a esta compañía demasiado favorable. Muchos se han fanaticado, mientras que otros han sido unos correspondientes idiotas de los contornos. Corresponsales tanto del Internet como de la televisión que han apoyado de una manera u otra el monopolio de este census viral virtual.
 
 Mientras tanto, otros como Google+ han mantenido los dedos cruzados en esperas que un cambio de pensamiento del público les beneficie el proyecto que emprendieron con similares fines. Y con la resignación de la paciencia de un Chino, el equipo de Google esperarán hasta que llegue el crucial momento, para quizás ofrecerles a los borregos de Thiel y Zuckerberg, la tierra prometida. Si esto sucede o no antes que termine el año, estaría por verse. Pero la decisión final estará en todos nosotros: si convertirnos ó no.
+
 
 
 
