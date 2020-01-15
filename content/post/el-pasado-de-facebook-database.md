@@ -1,5 +1,5 @@
 ---
-title: "El pasado de facebook database"
+title: "El pasado de facebook database: cambridge analytica y robo de datos"
 date: 2019-12-27T03:38:04-05:00
 draft: true
 banner: "/images/zuckerberg-fb.jpg"
