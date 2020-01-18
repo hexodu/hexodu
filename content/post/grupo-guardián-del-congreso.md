@@ -7,9 +7,8 @@ banner: '/images/goareport.jpg'
 
 Un nuevo reporte por parte del grupo congresional que salvaguarda y protege los intereses de esta entidad del gobierno, ha sido puesto a la luz pública, afirmando que la ayuda en millones de dólares que el Congreso de Estados Unidos habia aprobaddo, y que después fue postergada por la rama ejecutiva del país, ha violado la ley. <a href="#npr"><sup id="nprsup">1</sup></a> <a href="#wapoarticle"><sup id="wapoarticlesup">2</sup></a> <a href="#report"> <sup id="reportref">3</sup></a>
 
-<object data="https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pdf" type="application/pdf" width="500px" height="500px">
+<object data="https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pdf" type="application/pdf" width="auto" height="500px">
 </object>
-
 
 
 1- <a name="npr"></a> <a href="https://www.npr.org/2020/01/16/796806517/trump-broke-the-law-in-freezing-ukraine-funds-watchdog-report-concludes" target="_blank"> Drump rompió la ley al congelar los fondos de ayuda monetaria a Ucrania </a> <a href="nprsup"> &crarr; </a> 
