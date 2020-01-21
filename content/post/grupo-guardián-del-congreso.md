@@ -13,6 +13,10 @@ Un nuevo reporte por parte del grupo congresional que salvaguarda y protege los 
 -->
 
 
+https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pdf
+
+[El reporte](/docs/GAO-Trump-Ukraine-Decision.pdf)
+
 <iframe src="https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pdf" height="500px" width="500px" allowfullscreen="" frameborder="0"></iframe>
 
 
