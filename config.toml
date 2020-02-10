@@ -1,5 +1,5 @@
 baseurl = "https://hexodu.github.io/"
-languageCode = "en-us"
+languageCode = "es"
 title = "Un blog acerca de Cuba"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "spf13"
@@ -14,6 +14,8 @@ theme = "icarus"
 #
 #
 staticDir = ['static']
+
+DefaultContentLanguage = "es" 
 
 [markup]
   [markup.goldmark]
