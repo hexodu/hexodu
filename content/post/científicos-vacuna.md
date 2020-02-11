@@ -1,5 +1,5 @@
 ---
-title: "Científicos esperan que Vacuna contra Ebola ayude"
+title: "Científicos esperan que Vacuna contra Ebola ayude contra el coronavirus"
 date: 2020-02-10T23:57:36-05:00
 draft: true
 ---
