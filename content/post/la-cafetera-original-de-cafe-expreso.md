@@ -39,7 +39,7 @@ Es cierto que si el costo de la cafetera es mucho menor y ofrece una notable  lo
 
 ¿Pero de qué sirve esto? 
 
-Una cosa que es tan sencilla como una cafetera que en este caso consiste de un tambuche con la tapa y el asa, también de un tanque de reserva, un filtro y un embudo, no es pa' que diera tanto bateos, problemas, si los fabricantes hubiesen estado un poco más conscientes en el material que iban a utilizar para que sellara apropiadamente este artefacto, sin el efecto secundario de una goma que con un par de usos, se desgasta por completo. Eso es sin contar, que se vaya algún que otro pedazo junto al café. Al final uno termina tragándose los pedazos de gomas.
+Una cosa que es tan sencilla como una cafetera que en este caso consiste de un tambuche con la tapa y el asa, también de un tanque con la reserva pa'l agua, un filtro y un embudo, no es pa' que diera tanto bateos, problemas, si los fabricantes hubiesen estado un poco más conscientes en el material que iban a utilizar para que sellara apropiadamente este artefacto, sin el efecto secundario de una goma que con un par de usos, se desgasta por completo. Eso es sin contar, que se vaya algún que otro pedazo junto al café. Al final uno termina tragándose los pedazos de gomas.
 
 En este caso el que tomó esta decisión no sabía lo que estaba causando. 
 
