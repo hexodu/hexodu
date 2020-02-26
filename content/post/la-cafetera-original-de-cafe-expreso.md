@@ -10,7 +10,7 @@ No hace mucho que leí un artículo acerca de las cafeteras italianas que se han
 
 El artículo apareció en <a href="https://en.wikipedia.org/wiki/Atlas _Obscura" target="_blank">*Gastro Obscura*</a>, *Gastro Obscura*, una revista en línea de viaje y  que toca otros aspectos de platos extranjeros y demás.
 
-El artículo subrayó varios puntos que son verificables como cuando se refería a las raciones que la población recibe diciendo que:
+El artículo subrayó varios puntos que son verificables como cuando se refería a las raciones que la población Cubana recibe diciendo que:
 
 > But these rations aren’t pure coffee; they are mixed with fillers, sometimes toasted chickpeas (cafe con chicharo) to make the small amounts go further
 
