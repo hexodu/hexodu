@@ -44,14 +44,14 @@ DefaultContentLanguage = "es"
 [params]
     # Tell me who you are
     author = "Carlos Enriquez"
-    bio = "Blogger - Programmer - Tinkerer"
+    bio = "Blogger - Linux/BSD - Tinkerer"
     location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "css/images/avatar.png"
+    avatar = "css/images/archie2.jpeg"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
-    gravatar = "you@example.com"
+    #gravatar = "you@example.com"
     #logo = "css/images/logo.png"
     disable_mathjax = false # set to true to disable MathJax
 

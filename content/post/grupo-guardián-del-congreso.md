@@ -20,7 +20,7 @@ https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pd
 <iframe src="https://assets.documentcloud.org/documents/6658349/GAO-Trump-Ukraine-Decision.pdf" height="500px" width="500px" allowfullscreen="" frameborder="0"></iframe>
 
 
-1- <a name="npr"></a> <a href="https://www.npr.org/2020/01/16/796806517/trump-broke-the-law-in-freezing-ukraine-funds-watchdog-report-concludes" target="_blank"> Drump rompió la ley al congelar los fondos de ayuda monetaria a Ucrania </a> <a href="nprsup"> &crarr; </a> 
+1- <a name="npr"></a> <a href="https://www.npr.org/2020/01/16/796806517/trump-broke-the-law-in-freezing-ukraine-funds-watchdog-report-concludes" target="_blank"> Drump rompió la ley al congelar los fondos de ayuda monetaria a Ucrania </a> <a href="#nprsup"> &crarr;</a> 
 
 2- <a name="wapoarticle"> </a> <a href="https://www.washingtonpost.com/business/economy/white-house-hold-on-ukraine-aid-violated-federal-law-congressional-watchdog-says/2020/01/16/060ea7aa-37a3-11ea-9c01-d674772db96b_story.html" target="_blank"> Ayuda congelada viola las leyes federales - grupo guardián congresional afirma </a> <a href="wapoarticlesup"> </a>
 
